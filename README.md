@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alao
+# Monsuru A. Mudasiru
 
 **Software Engineer · Open-Source Builder · Systems Thinker**
 
@@ -20,6 +20,9 @@ My work spans application development, backend architecture, developer tooling, 
 
 I build software not just to solve today's problems, but to make tomorrow's development simpler.
 
+<div />
+---
+  
 ## 🚀 Explita Infra
 
 **Developer infrastructure designed to help developers build, deploy, and connect applications.**
@@ -34,6 +37,9 @@ I'm building an ecosystem of tools that brings greater control and simplicity to
 
 Explore the ecosystem at **[infra.explita.ng](https://infra.explita.ng)**.
 
+<div />
+---
+
 ## 📦 Open-Source Libraries
 
 I also develop reusable libraries that help developers build maintainable, type-safe applications and simplify common backend engineering tasks.
@@ -45,7 +51,8 @@ I also develop reusable libraries that help developers build maintainable, type-
 | **[Prisma Query Builder](https://github.com/explita/prisma-query-builder)** | Reusable query-building tools for Prisma applications.      |
 | **[Prisma Guard](https://github.com/explita/prisma-guard)**                 | Validation and data-access tooling for Prisma applications. |
 
-<div style={{height:"250px"}} />
+<div />
+---
 
 **Languages & Runtime**
 
@@ -72,7 +79,8 @@ I also develop reusable libraries that help developers build maintainable, type-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#
+<div />
+---
 
 ## 💡 Engineering Philosophy
 
